@@ -212,6 +212,8 @@ def player_stats(p_name)
  end
 end
 
+
+
 def big_shoe_rebounds
     big_shoe = []
     result =0
@@ -227,4 +229,20 @@ def big_shoe_rebounds
          end
       end
         return n_rebounds
+end
+
+
+
+
+def most_points_scored
+  
+end
+
+def winning_team
+end
+
+def player_with_longest_name
+end
+
+def long_name_steals_a_ton
 end
